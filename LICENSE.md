@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -745,3 +746,6 @@
   </body>
 </html>
 
+=======
+Please, do not use for commercial purpose. I will create another system without trademarkes for educational use
+>>>>>>> da347ad54896a9b42285143b443365859b9f6b61
