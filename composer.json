@@ -1,0 +1,14 @@
+{
+  "name":"Condominio Flamboyant",
+  "description":"Sistema de controle dos moradores do residencial jardim Flamboyant",
+  "require": {
+    "php":">= 5.2.8",
+    "respect/validation": ">=0.9.3",
+    "kevinlebrun/slug.php": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aula\\": "app/"
+    }
+  }
+}
