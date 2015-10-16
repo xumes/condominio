@@ -103,9 +103,9 @@
                 <div class="col-md-10">
                    
                             <div class="jumbotron">
-                                <h1>Marlon, leia por favor</h1>
-                                <p>Este site será o meu projeto final, e será realmente colocado em produção no condomínio onde eu moro</p>
-                                <p>Para fins de validação, por favor, acesse apenas a Área da Administração</p>
+                                <h1>Condomínio Residencial Jardim Flamboyant</h1>
+                                <p>Seja bem-vindo com nosso condomínio. Selecione no lado esquerdo, o site correto, de acordo com a sua permissão de acesso.</p>
+                                <p>Caso não tenha acesso, por favor, selecione o site institucional para se identificar como morador e solicitar o seu acesso.</p>
                             </div>
 
                 </div>
